@@ -7,6 +7,7 @@ const app = props => {
       persons:[
         {name:'max', age:28}
       ]
+
     })
     return (
       <div className="App">
